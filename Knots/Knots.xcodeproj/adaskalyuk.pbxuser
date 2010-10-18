@@ -80,35 +80,13 @@
 			PBXWorkspaceStateSaveDate = 309095745;
 		};
 		perUserProjectItems = {
-			9E5A0797126C6EFA004D9FB0 /* XCBuildMessageTextBookmark */ = 9E5A0797126C6EFA004D9FB0 /* XCBuildMessageTextBookmark */;
-			9E5A0798126C6EFA004D9FB0 /* PBXTextBookmark */ = 9E5A0798126C6EFA004D9FB0 /* PBXTextBookmark */;
 			9E5A079B126C6F01004D9FB0 /* PBXTextBookmark */ = 9E5A079B126C6F01004D9FB0 /* PBXTextBookmark */;
 			9E5A079C126C6F01004D9FB0 /* XCBuildMessageTextBookmark */ = 9E5A079C126C6F01004D9FB0 /* XCBuildMessageTextBookmark */;
-			9E5A079D126C6F01004D9FB0 /* PBXTextBookmark */ = 9E5A079D126C6F01004D9FB0 /* PBXTextBookmark */;
-			9E5A079E126C6F0A004D9FB0 /* PBXTextBookmark */ = 9E5A079E126C6F0A004D9FB0 /* PBXTextBookmark */;
+			9E5A079F126C77A7004D9FB0 /* PBXTextBookmark */ = 9E5A079F126C77A7004D9FB0 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 9E5E7771126C66F40018D047 /* Source Control */;
 		userBuildSettings = {
 		};
-	};
-	9E5A0797126C6EFA004D9FB0 /* XCBuildMessageTextBookmark */ = {
-		isa = PBXTextBookmark;
-		comments = "TapkuLibrary/TapkuLibrary.h: No such file or directory";
-		fRef = 1D3623250D0F684500981E51 /* KnotsAppDelegate.m */;
-		fallbackIsa = XCBuildMessageTextBookmark;
-		rLen = 1;
-		rLoc = 9;
-		rType = 1;
-	};
-	9E5A0798126C6EFA004D9FB0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* KnotsAppDelegate.m */;
-		name = "KnotsAppDelegate.m: 10";
-		rLen = 0;
-		rLoc = 176;
-		rType = 0;
-		vrLen = 300;
-		vrLoc = 0;
 	};
 	9E5A079B126C6F01004D9FB0 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -129,17 +107,7 @@
 		rLoc = 9;
 		rType = 1;
 	};
-	9E5A079D126C6F01004D9FB0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* KnotsAppDelegate.m */;
-		name = "KnotsAppDelegate.m: 10";
-		rLen = 0;
-		rLoc = 176;
-		rType = 0;
-		vrLen = 177;
-		vrLoc = 0;
-	};
-	9E5A079E126C6F0A004D9FB0 /* PBXTextBookmark */ = {
+	9E5A079F126C77A7004D9FB0 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 1D3623250D0F684500981E51 /* KnotsAppDelegate.m */;
 		name = "KnotsAppDelegate.m: 7";
