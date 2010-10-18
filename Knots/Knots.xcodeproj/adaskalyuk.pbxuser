@@ -1,5 +1,19 @@
 // !$*UTF8*$!
 {
+	1D3623240D0F684500981E51 /* KnotsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {959, 260}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 287}";
+		};
+	};
+	1D3623250D0F684500981E51 /* KnotsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {959, 1469}}";
+			sepNavSelRange = "{145, 0}";
+			sepNavVisRange = "{0, 179}";
+		};
+	};
 	1D6058900D05DD3D006BFB54 /* Knots */ = {
 		activeExec = 0;
 		executables = (
@@ -10,6 +24,9 @@
 		activeBuildConfigurationName = Debug;
 		activeExecutable = 9E5E7761126C66ED0018D047 /* Knots */;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* Knots */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Knots */,
+		);
 		codeSenseManager = 9E5E7772126C66F40018D047 /* Code sense */;
 		executables = (
 			9E5E7761126C66ED0018D047 /* Knots */,
@@ -20,9 +37,9 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					829,
+					781,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -37,12 +54,100 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 309094125;
-			PBXWorkspaceStateSaveDate = 309094125;
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					741,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 309095745;
+			PBXWorkspaceStateSaveDate = 309095745;
+		};
+		perUserProjectItems = {
+			9E5A0797126C6EFA004D9FB0 /* XCBuildMessageTextBookmark */ = 9E5A0797126C6EFA004D9FB0 /* XCBuildMessageTextBookmark */;
+			9E5A0798126C6EFA004D9FB0 /* PBXTextBookmark */ = 9E5A0798126C6EFA004D9FB0 /* PBXTextBookmark */;
+			9E5A079B126C6F01004D9FB0 /* PBXTextBookmark */ = 9E5A079B126C6F01004D9FB0 /* PBXTextBookmark */;
+			9E5A079C126C6F01004D9FB0 /* XCBuildMessageTextBookmark */ = 9E5A079C126C6F01004D9FB0 /* XCBuildMessageTextBookmark */;
+			9E5A079D126C6F01004D9FB0 /* PBXTextBookmark */ = 9E5A079D126C6F01004D9FB0 /* PBXTextBookmark */;
+			9E5A079E126C6F0A004D9FB0 /* PBXTextBookmark */ = 9E5A079E126C6F0A004D9FB0 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 9E5E7771126C66F40018D047 /* Source Control */;
 		userBuildSettings = {
 		};
+	};
+	9E5A0797126C6EFA004D9FB0 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "TapkuLibrary/TapkuLibrary.h: No such file or directory";
+		fRef = 1D3623250D0F684500981E51 /* KnotsAppDelegate.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 9;
+		rType = 1;
+	};
+	9E5A0798126C6EFA004D9FB0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* KnotsAppDelegate.m */;
+		name = "KnotsAppDelegate.m: 10";
+		rLen = 0;
+		rLoc = 176;
+		rType = 0;
+		vrLen = 300;
+		vrLoc = 0;
+	};
+	9E5A079B126C6F01004D9FB0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* KnotsAppDelegate.h */;
+		name = "KnotsAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 287;
+		vrLoc = 0;
+	};
+	9E5A079C126C6F01004D9FB0 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "TapkuLibrary/TapkuLibrary.h: No such file or directory";
+		fRef = 1D3623250D0F684500981E51 /* KnotsAppDelegate.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 9;
+		rType = 1;
+	};
+	9E5A079D126C6F01004D9FB0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* KnotsAppDelegate.m */;
+		name = "KnotsAppDelegate.m: 10";
+		rLen = 0;
+		rLoc = 176;
+		rType = 0;
+		vrLen = 177;
+		vrLoc = 0;
+	};
+	9E5A079E126C6F0A004D9FB0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* KnotsAppDelegate.m */;
+		name = "KnotsAppDelegate.m: 7";
+		rLen = 0;
+		rLoc = 145;
+		rType = 0;
+		vrLen = 179;
+		vrLoc = 0;
 	};
 	9E5E7761126C66ED0018D047 /* Knots */ = {
 		isa = PBXExecutable;
@@ -60,6 +165,7 @@
 		dataTipSortType = 0;
 		debuggerPlugin = GDBDebugging;
 		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
 		enableDebugStr = 1;
 		environmentEntries = (
 		);
