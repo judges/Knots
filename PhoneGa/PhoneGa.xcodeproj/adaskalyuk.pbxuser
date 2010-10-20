@@ -1,0 +1,199 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* PhoneGaAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 237}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 265}";
+		};
+	};
+	1D3623250D0F684500981E51 /* PhoneGaAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 1157}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 390}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* PhoneGa */ = {
+		activeExec = 0;
+		executables = (
+			9E0E3B70126D75690088FB61 /* PhoneGa */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9E0E3B70126D75690088FB61 /* PhoneGa */;
+		activeSDKPreference = iphonesimulator4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PhoneGa */;
+		codeSenseManager = 9E0E3B84126D75880088FB61 /* Code sense */;
+		executables = (
+			9E0E3B70126D75690088FB61 /* PhoneGa */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					787,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 309167339;
+			PBXWorkspaceStateSaveDate = 309167339;
+		};
+		perUserProjectItems = {
+			9E0E3BB6126D76A20088FB61 /* PlistBookmark */ = 9E0E3BB6126D76A20088FB61 /* PlistBookmark */;
+			9E0E3BB7126D76A20088FB61 /* PBXTextBookmark */ = 9E0E3BB7126D76A20088FB61 /* PBXTextBookmark */;
+			9E0E3BB8126D76A20088FB61 /* PBXTextBookmark */ = 9E0E3BB8126D76A20088FB61 /* PBXTextBookmark */;
+			9E0E3BFA126D88960088FB61 /* PBXTextBookmark */ = 9E0E3BFA126D88960088FB61 /* PBXTextBookmark */;
+			9E0E3BFB126D88960088FB61 /* PBXTextBookmark */ = 9E0E3BFB126D88960088FB61 /* PBXTextBookmark */;
+			9E0E3BFC126D88960088FB61 /* PBXTextBookmark */ = 9E0E3BFC126D88960088FB61 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9E0E3B83126D75880088FB61 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	9E0E3B70126D75690088FB61 /* PhoneGa */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PhoneGa;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	9E0E3B83126D75880088FB61 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	9E0E3B84126D75880088FB61 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9E0E3BB6126D76A20088FB61 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* PhoneGa-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/adaskalyuk/workspace/sudocvua-sources/Knots/PhoneGa/PhoneGa-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	9E0E3BB7126D76A20088FB61 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* PhoneGaAppDelegate.h */;
+		name = "PhoneGaAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 265;
+		vrLoc = 0;
+	};
+	9E0E3BB8126D76A20088FB61 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PhoneGaAppDelegate.m */;
+		name = "PhoneGaAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 390;
+		vrLoc = 0;
+	};
+	9E0E3BDB126D789A0088FB61 /* master.css */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.css;
+		name = master.css;
+		path = "/Users/adaskalyuk/workspace/sudocvua-sources/Knots/PhoneGa/www/master.css";
+		sourceTree = "<absolute>";
+	};
+	9E0E3BE2126D79430088FB61 /* index.html */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.html;
+		name = index.html;
+		path = "/Users/adaskalyuk/workspace/sudocvua-sources/Knots/PhoneGa/www/index.html";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {965, 3965}}";
+			sepNavSelRange = "{7697, 0}";
+			sepNavVisRange = "{5965, 1348}";
+		};
+	};
+	9E0E3BFA126D88960088FB61 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9E0E3BE2126D79430088FB61 /* index.html */;
+		name = "index.html: 246";
+		rLen = 0;
+		rLoc = 7697;
+		rType = 0;
+		vrLen = 1348;
+		vrLoc = 5965;
+	};
+	9E0E3BFB126D88960088FB61 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9E0E3BDB126D789A0088FB61 /* master.css */;
+		name = "master.css: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 576;
+		vrLoc = 0;
+	};
+	9E0E3BFC126D88960088FB61 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9E0E3BFD126D88960088FB61 /* master.css */;
+		name = "master.css: 7";
+		rLen = 0;
+		rLoc = 126;
+		rType = 0;
+		vrLen = 576;
+		vrLoc = 0;
+	};
+	9E0E3BFD126D88960088FB61 /* master.css */ = {
+		isa = PBXFileReference;
+		name = master.css;
+		path = "/Users/adaskalyuk/workspace/sudocvua-sources/Knots/PhoneGa/www/master.css";
+		sourceTree = "<absolute>";
+	};
+}
