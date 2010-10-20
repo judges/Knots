@@ -9,9 +9,9 @@
 	};
 	1D3623250D0F684500981E51 /* KnotsAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {959, 1469}}";
-			sepNavSelRange = "{145, 0}";
-			sepNavVisRange = "{0, 179}";
+			sepNavIntBoundsRect = "{{0, 0}, {977, 1456}}";
+			sepNavSelRange = "{175, 0}";
+			sepNavVisRange = "{0, 737}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* Knots */ = {
@@ -37,7 +37,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					781,
+					799,
 					20,
 					48,
 					43,
@@ -76,17 +76,96 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 309095745;
-			PBXWorkspaceStateSaveDate = 309095745;
+			PBXPerProjectTemplateStateSaveDate = 309264147;
+			PBXWorkspaceStateSaveDate = 309264147;
 		};
 		perUserProjectItems = {
+			9E339FF4126EFFC300B44B65 /* PBXTextBookmark */ = 9E339FF4126EFFC300B44B65 /* PBXTextBookmark */;
+			9E339FF5126EFFC300B44B65 /* PBXBookmark */ = 9E339FF5126EFFC300B44B65 /* PBXBookmark */;
+			9E339FF6126EFFC300B44B65 /* PBXBookmark */ = 9E339FF6126EFFC300B44B65 /* PBXBookmark */;
+			9E339FF7126EFFC300B44B65 /* PBXBookmark */ = 9E339FF7126EFFC300B44B65 /* PBXBookmark */;
+			9E339FF8126EFFC300B44B65 /* PBXBookmark */ = 9E339FF8126EFFC300B44B65 /* PBXBookmark */;
+			9E339FF9126EFFC300B44B65 /* PBXBookmark */ = 9E339FF9126EFFC300B44B65 /* PBXBookmark */;
+			9E339FFA126EFFC300B44B65 /* PBXBookmark */ = 9E339FFA126EFFC300B44B65 /* PBXBookmark */;
+			9E339FFB126EFFC300B44B65 /* PBXBookmark */ = 9E339FFB126EFFC300B44B65 /* PBXBookmark */;
+			9E339FFC126EFFC300B44B65 /* PBXBookmark */ = 9E339FFC126EFFC300B44B65 /* PBXBookmark */;
+			9E339FFD126EFFC300B44B65 /* PBXBookmark */ = 9E339FFD126EFFC300B44B65 /* PBXBookmark */;
+			9E339FFE126EFFC300B44B65 /* PBXBookmark */ = 9E339FFE126EFFC300B44B65 /* PBXBookmark */;
+			9E339FFF126EFFC300B44B65 /* PBXBookmark */ = 9E339FFF126EFFC300B44B65 /* PBXBookmark */;
+			9E33A000126EFFC300B44B65 /* PBXBookmark */ = 9E33A000126EFFC300B44B65 /* PBXBookmark */;
+			9E33A001126EFFC300B44B65 /* PBXBookmark */ = 9E33A001126EFFC300B44B65 /* PBXBookmark */;
+			9E33A002126EFFC300B44B65 /* PBXBookmark */ = 9E33A002126EFFC300B44B65 /* PBXBookmark */;
 			9E5A079B126C6F01004D9FB0 /* PBXTextBookmark */ = 9E5A079B126C6F01004D9FB0 /* PBXTextBookmark */;
-			9E5A079C126C6F01004D9FB0 /* XCBuildMessageTextBookmark */ = 9E5A079C126C6F01004D9FB0 /* XCBuildMessageTextBookmark */;
-			9E5A079F126C77A7004D9FB0 /* PBXTextBookmark */ = 9E5A079F126C77A7004D9FB0 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 9E5E7771126C66F40018D047 /* Source Control */;
 		userBuildSettings = {
 		};
+	};
+	9E339FF4126EFFC300B44B65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* KnotsAppDelegate.m */;
+		name = "KnotsAppDelegate.m: 9";
+		rLen = 0;
+		rLoc = 175;
+		rType = 0;
+		vrLen = 737;
+		vrLoc = 0;
+	};
+	9E339FF5126EFFC300B44B65 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9E339E62126EFF4B00B44B65 /* 01-refresh.png */;
+	};
+	9E339FF6126EFFC300B44B65 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9E339E63126EFF4B00B44B65 /* 02-redo.png */;
+	};
+	9E339FF7126EFFC300B44B65 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9E339E64126EFF4B00B44B65 /* 03-loopback.png */;
+	};
+	9E339FF8126EFFC300B44B65 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9E339E65126EFF4B00B44B65 /* 04-squiggle.png */;
+	};
+	9E339FF9126EFFC300B44B65 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9E339E66126EFF4B00B44B65 /* 05-shuffle.png */;
+	};
+	9E339FFA126EFFC300B44B65 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9E339E67126EFF4B00B44B65 /* 06-magnify.png */;
+	};
+	9E339FFB126EFFC300B44B65 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9E339E68126EFF4B00B44B65 /* 07-map-marker.png */;
+	};
+	9E339FFC126EFFC300B44B65 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9E339E69126EFF4B00B44B65 /* 08-chat.png */;
+	};
+	9E339FFD126EFFC300B44B65 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9E339E6A126EFF4B00B44B65 /* 09-chat-2.png */;
+	};
+	9E339FFE126EFFC300B44B65 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9E339E6B126EFF4B00B44B65 /* 10-medical.png */;
+	};
+	9E339FFF126EFFC300B44B65 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9E339E6C126EFF4B00B44B65 /* 100-coffee.png */;
+	};
+	9E33A000126EFFC300B44B65 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9E339E6E126EFF4B00B44B65 /* 102-walk.png */;
+	};
+	9E33A001126EFFC300B44B65 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9E339E6D126EFF4B00B44B65 /* 101-gameplan.png */;
+	};
+	9E33A002126EFFC300B44B65 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9E339E6D126EFF4B00B44B65 /* 101-gameplan.png */;
 	};
 	9E5A079B126C6F01004D9FB0 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -96,25 +175,6 @@
 		rLoc = 0;
 		rType = 0;
 		vrLen = 287;
-		vrLoc = 0;
-	};
-	9E5A079C126C6F01004D9FB0 /* XCBuildMessageTextBookmark */ = {
-		isa = PBXTextBookmark;
-		comments = "TapkuLibrary/TapkuLibrary.h: No such file or directory";
-		fRef = 1D3623250D0F684500981E51 /* KnotsAppDelegate.m */;
-		fallbackIsa = XCBuildMessageTextBookmark;
-		rLen = 1;
-		rLoc = 9;
-		rType = 1;
-	};
-	9E5A079F126C77A7004D9FB0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* KnotsAppDelegate.m */;
-		name = "KnotsAppDelegate.m: 7";
-		rLen = 0;
-		rLoc = 145;
-		rType = 0;
-		vrLen = 179;
 		vrLoc = 0;
 	};
 	9E5E7761126C66ED0018D047 /* Knots */ = {
